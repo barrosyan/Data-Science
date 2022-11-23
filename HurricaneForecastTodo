@@ -1,0 +1,5 @@
+#Next step is to code the Physics equations that describes the movement (Flow mechanics with a different analysis);
+#Then, we load the satellite data and make a reanalysis;
+#After, we have to load the statistical data;
+#Then, we build and feed our Neural Network model;
+#Plot the visualization and compare the results;
