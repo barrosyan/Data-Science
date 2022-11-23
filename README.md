@@ -1,9 +1,3 @@
-
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-
 # Hi, I'm Yan and welcome to my Data... 
 
 [!]
