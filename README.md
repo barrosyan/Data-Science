@@ -4,8 +4,8 @@ This is my Data Science portfolio.
 
 You can see here my v1 finished projects:
 
-[Birthday's celebrate - Stars and Galaxys Calculation](https://github.com/barrosyan/Data-Science/blob/main/Happy_Birthday!.ipynb)
-[Energy of Collisions into the Large Hadrons Collidor](https://github.com/barrosyan/Data-Science/blob/main/LHC.ipynb)
+[Birthday's celebrate - Stars and Galaxys Calculation](https://github.com/barrosyan/Data-Science/blob/main/Happy_Birthday!.ipynb) | 
+[Energy of Collisions into the Large Hadrons Collidor](https://github.com/barrosyan/Data-Science/blob/main/LHC.ipynb) | 
 [Linkedin Job Scraping](https://github.com/barrosyan/Data-Science/blob/main/LinkedinJobScraping.ipynb)
 
 
